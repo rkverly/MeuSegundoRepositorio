@@ -11,6 +11,7 @@ void imprimirAlice(){
 int main(){
 	
 	imprimirBob();
-	
+	imprimirAlice();
+		
 	return 0;
 }
