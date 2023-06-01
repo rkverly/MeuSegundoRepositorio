@@ -4,6 +4,10 @@ void imprimirBob(){
 	printf("Bob\n");
 }
 
+void imprimirAlice(){
+	printf("Alice\n");
+}
+
 int main(){
 	
 	
